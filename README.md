@@ -84,9 +84,9 @@ Results-driven **Full Stack Developer** skilled in building scalable, high-perfo
 
 ### 🔗 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mehranmanzoor/)
-- ✉️ Email: your.email@example.com <!-- Update your email if desired -->
-- 💬 [Portfolio/Website](https://yourwebsite.com) <!-- Update if you have one -->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mehran-manzoor-1a84b5244/)
+- ✉️ Email: mehranmanzoor95@gmail.com <!-- Update your email if desired -->
+
 
 ---
 
